@@ -23,7 +23,7 @@ Domain analysis often involves collecting intelligence from multiple external so
 * Associated IP addresses and hosting providers
 * Historical DNS records and domain changes
 
-### URLs
+### Tools URLs
 
 * [Whois](https://www.whois.com)
 * [Whois - DomainTools](https://whois.domaintools.com)

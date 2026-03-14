@@ -21,7 +21,7 @@ By analyzing email headers, security analysts can identify spoofed sender addres
 * Message-ID and timestamp metadata
 * User-Agent and mailer software information
 
-### URLs
+### Tools URLs
 
 * [Message Header Analyzer](https://mha.azurewebsites.net)
 * [MXToolbox](https://mxtoolbox.com)
