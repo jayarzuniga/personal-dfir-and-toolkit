@@ -23,8 +23,8 @@ By analyzing email headers, security analysts can identify spoofed sender addres
 
 ### URLs
 
-[Message Header Analyzer](https://mha.azurewebsites.net)
-[MXToolbox](https://mxtoolbox.com)
-[Google Apps Toolbox](https://toolbox.googleapps.com)
-[13Cubed - GitHub](https://github.com/13Cubed/EmailHeader)
-[Email IOC Extractor - GitHub](https://github.com/MalwareCube/Email-IOC-Extractor)
+* [Message Header Analyzer](https://mha.azurewebsites.net)
+* [MXToolbox](https://mxtoolbox.com)
+* [Google Apps Toolbox](https://toolbox.googleapps.com)
+* [13Cubed - GitHub](https://github.com/13Cubed/EmailHeader)
+* [Email IOC Extractor - GitHub](https://github.com/MalwareCube/Email-IOC-Extractor)

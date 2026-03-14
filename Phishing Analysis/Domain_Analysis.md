@@ -25,10 +25,10 @@ Domain analysis often involves collecting intelligence from multiple external so
 
 ### URLs
 
-[Whois](https://www.whois.com)
-[Whois - DomainTools](https://whois.domaintools.com)
-[Reverse IP - DomainTools](https://reverseip.domaintools.com)
-[MXToolbox](https://mxtoolbox.com)
-[CentralOps](https://centralops.net)
-[Have I Been Squatted](https://haveibeensquatted.com)
-[Talos Intelligence](https://talosintelligence.com)
+* [Whois](https://www.whois.com)
+* [Whois - DomainTools](https://whois.domaintools.com)
+* [Reverse IP - DomainTools](https://reverseip.domaintools.com)
+* [MXToolbox](https://mxtoolbox.com)
+* [CentralOps](https://centralops.net)
+* [Have I Been Squatted](https://haveibeensquatted.com)
+* [Talos Intelligence](https://talosintelligence.com)
