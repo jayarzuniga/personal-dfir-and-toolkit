@@ -30,3 +30,8 @@ Security analysts and detection engineers reference curated payload libraries an
 * [XXE Injection Payload List](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection)
 * [Command Injection Payload List](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
 * [LFI and RFI Payload List](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion)
+* [XSS Payload List - payloadbox](https://github.com/payloadbox/xss-payload-list)
+* [SQL Injection Payload List - payloadbox](https://github.com/payloadbox/sql-injection-payload-list)
+* [XXE Injection Payload List - payloadbox](https://github.com/payloadbox/xxe-injection-payload-list)
+* [Command Injection Payload List - payloadbox](https://github.com/payloadbox/command-injection-payload-list)
+* [LFI and RFI Payload List - payloadbox](https://github.com/payloadbox/rfi-lfi-payload-list)
